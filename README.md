@@ -8,12 +8,24 @@ I'm a fresher developer passionate about building real-world applications using 
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/feed/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:ranauday408@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Spidey-08"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
-</p>
+---
+
+### 📈 GitHub Stats
+
+![Uday Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spidey-08&show_icons=true&theme=gruvbox&hide_border=true)
+
+---
+
+### 🔥 Contribution Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Spidey-08&theme=gruvbox&hide_border=true)
+
+---
+
+### 🧮 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spidey-08&layout=compact&theme=gruvbox&hide_border=true)
+
 
 ---
 
