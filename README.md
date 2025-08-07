@@ -11,7 +11,7 @@ I'm a fresher developer passionate about building real-world applications using 
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/uday-rana-4969b6342/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:ranauday408@gmail.com)/></a>
+  <a href="mailto:ranauday408@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Spidey-08"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
 </p>
 
