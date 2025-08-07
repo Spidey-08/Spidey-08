@@ -8,9 +8,12 @@ I'm a fresher developer passionate about building real-world applications using 
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/)  
-[📧 Email](mailto:ranauday408@gmail.com)
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/feed/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:ranauday408@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Spidey-08"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
+</p>
 
 ---
 
@@ -38,10 +41,6 @@ I'm a fresher developer passionate about building real-world applications using 
 
 ---
 
-## 👀 Visitors Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=Spidey-08&color=blue)
-
----
 
 Feel free to check out my repositories and connect with me!
 
